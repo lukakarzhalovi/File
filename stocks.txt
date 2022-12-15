@@ -1,0 +1,4 @@
+stock market_cap volume price
+Tesla 529.934 109.794 167.8
+Apple 529.934 70.463 144.49
+Amazon 923.764 60.553 90.55
